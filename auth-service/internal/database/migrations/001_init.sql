@@ -1,0 +1,1 @@
+-- Placeholder for manual SQL migrations if needed
